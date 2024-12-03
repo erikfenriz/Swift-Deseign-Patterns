@@ -1,3 +1,3 @@
 ### SWIFT Design Patterns
 
->> WIP
+> WIP
